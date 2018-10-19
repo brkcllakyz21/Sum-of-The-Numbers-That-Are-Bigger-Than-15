@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of The Numbers That Are Bigger Than15", "Sum of The Numbers That Are Bigger Than15\Sum of The Numbers That Are Bigger Than15.csproj", "{7AF5769E-6684-4A78-9495-A96D1BDC0052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF5769E-6684-4A78-9495-A96D1BDC0052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF5769E-6684-4A78-9495-A96D1BDC0052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF5769E-6684-4A78-9495-A96D1BDC0052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF5769E-6684-4A78-9495-A96D1BDC0052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4F6594-7340-434D-A151-E5C11855EEF0}
+	EndGlobalSection
+EndGlobal
